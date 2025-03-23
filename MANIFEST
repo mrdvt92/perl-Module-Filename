@@ -1,0 +1,11 @@
+MANIFEST
+README.md
+LICENSE
+Changes
+Makefile.PL
+lib/Module/Filename.pm
+t/001_load.t
+t/002_oo.t
+t/003_export.t
+scripts/module_filename.pl
+perl-Module-Filename.spec
